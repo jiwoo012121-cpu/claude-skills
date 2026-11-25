@@ -1,0 +1,24 @@
+{
+  "source": "kernelspaces/academy-product 법인세/ctax",
+  "commit": "7b40560 2026-11-09 fix(법인세): 정답세트 검토 반영(23호(갑) ⑧ 부동산임대업 50%, 52 · 55호 확인 연결 뺌)",
+  "copied": [
+    "case.py",
+    "xlsx.py",
+    "runlog.py",
+    "intake/",
+    "prior/",
+    "ar/",
+    "wp/",
+    "context/",
+    "score/match.py",
+    "forms/calc.py",
+    "forms/registry.py",
+    "forms/fx.py",
+    "forms/params.py",
+    "forms/defs/"
+  ],
+  "stubs": [
+    "forms/plugins",
+    "forms/engine_forms.yaml"
+  ]
+}
